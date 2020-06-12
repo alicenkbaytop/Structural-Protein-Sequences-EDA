@@ -1,5 +1,5 @@
 # Structural-Protein-Sequences
-It is about structural protein sequences exploratory data analysis. The dataset from [Kaggle].(https://www.kaggle.com/shahir/protein-data-set).
+It is about structural protein sequences exploratory data analysis. The dataset from [Kaggle](https://www.kaggle.com/shahir/protein-data-set).
 # Aim:
 prediction of classification of molecules according to data values.
 
