@@ -26,3 +26,8 @@ The PDB archive is a repository of atomic coordinates and other information desc
       * Mode Method
       * Mean and Std Method
       * KNN Method
+            
+# Contributors
+1. Ali Cenk Baytop
+2. Serkan Kocairi
+3. Meryem Karakas
