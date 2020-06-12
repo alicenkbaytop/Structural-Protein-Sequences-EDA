@@ -9,9 +9,9 @@ This is a protein data set retrieved from Research Collaboratory for Structural 
 The PDB archive is a repository of atomic coordinates and other information describing proteins and other important biological macromolecules. Structural biologists use methods such as X-ray crystallography, NMR spectroscopy, and cryo-electron microscopy to determine the location of each atom relative to each other in the molecule. They then deposit this information, which is then annotated and publicly released into the archive by the wwPDB.
 
 # Content:
-0. Load and Check Data
-1. Variable Description
-2. Data Visualization
+**0. Load and Check Data**
+**1. Variable Description**
+**2. Data Visualization**
    * Correlation
    * densityMatthews-densityPercentSol
    * MacromoleculeType
@@ -19,8 +19,8 @@ The PDB archive is a repository of atomic coordinates and other information desc
    * Classification
    * phValue
    * publicationYear
-3. Outliers Detection
-4. Missing Value Imputation
+**3. Outliers Detection**
+**4. Missing Value Imputation**
     * Missing Value Visualization
     * Fill Missing Value
       * Mode Method
