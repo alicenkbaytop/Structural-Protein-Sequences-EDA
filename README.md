@@ -21,8 +21,8 @@ The PDB archive is a repository of atomic coordinates and other information desc
    * publicationYear
 3. Outliers Detection
 4. Missing Value Imputation
-  * Missing Value Visualization
-  * Fill Missing Value
-    * Mode Method
-    * Mean and Std Method
-    * KNN Method
+    * Missing Value Visualization
+    * Fill Missing Value
+      * Mode Method
+      * Mean and Std Method
+      * KNN Method
