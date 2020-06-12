@@ -12,17 +12,17 @@ The PDB archive is a repository of atomic coordinates and other information desc
 0. Load and Check Data
 1. Variable Description
 2. Data Visualization
-  * Correlation
-  * densityMatthews-densityPercentSol
-  * MacromoleculeType
-  * experimentalTechnique
-  * Classification
-  * phValue
-  * publicationYear
+  - Correlation
+  - densityMatthews-densityPercentSol
+  - MacromoleculeType
+  - experimentalTechnique
+  - Classification
+  - phValue
+  - publicationYear
 3. Outliers Detection
 4. Missing Value Imputation
   1. Missing Value Visualization
   1. Fill Missing Value
-    * Mode Method
-    * Mean and Std Method
-    * KNN Method
+    - Mode Method
+    - Mean and Std Method
+    - KNN Method
