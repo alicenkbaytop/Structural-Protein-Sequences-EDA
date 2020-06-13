@@ -28,6 +28,6 @@ The PDB archive is a repository of atomic coordinates and other information desc
       * KNN Method
             
 # Contributors
-1. Ali Cenk Baytop
-2. Serkan Kocairi
-3. Meryem Karakas
+1. [Ali Cenk Baytop](https://github.com/alicenkbaytop)
+2. [Serkan Kocairi](https://github.com/kocairiserkan)
+3. [Meryem Karakas](https://github.com/meryemkarakas)
